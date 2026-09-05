@@ -1,0 +1,11 @@
+{
+  "title": "Mr Xeno — Developer & Designer",
+  "description": "UI Engineer, Web Designer, and Digital Builder. Clean, fast, intentional websites, AI integrations, and digital products under the Mr Xeno identity.",
+  "language": "en",
+  "robots": {
+    "index": true
+  },
+  "icons": {
+    "icon": "/favicon.png"
+  }
+}
