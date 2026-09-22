@@ -15,7 +15,3 @@ Have a project idea, collaboration opportunity, or question?
 
 ---
 
-## ⚡ Philosophy
-
-> **Build. Learn. Improve. Repeat.**
-I'm always working on something new.
